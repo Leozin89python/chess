@@ -1,0 +1,9 @@
+package App;
+import Chess.ChessPiece;
+public class UI {
+
+	public static void printBoard(ChessPiece[][] pieces) {
+	
+		
+	}
+}
