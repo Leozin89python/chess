@@ -1,0 +1,9 @@
+package Chess;
+import BoardGame.Board;
+import BoardGame.Piece;
+public class ClassPiece extends Piece{
+
+	public ClassPiece(Board board) {
+		super(board);
+	}	
+}
