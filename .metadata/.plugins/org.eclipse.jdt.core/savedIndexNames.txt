@@ -4,10 +4,10 @@ INDEX VERSION 1.131+C:\1.projetosDev\revisão e prosseguimento java\chess java\.m
 741416789.index
 2458243559.index
 2831726757.index
-911398812.index
 3259301653.index
-971378871.index
+911398812.index
 4276758565.index
+971378871.index
 555507292.index
 2158205419.index
 408771512.index

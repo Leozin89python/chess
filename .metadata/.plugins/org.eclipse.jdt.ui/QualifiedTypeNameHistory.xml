@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="BoardGame.Piece"/>
+<fullyQualifiedTypeName name="Chess.ChessMatch"/>
+<fullyQualifiedTypeName name="Chess.ChessPiece"/>
+<fullyQualifiedTypeName name="BoardGame.Board"/>
+<fullyQualifiedTypeName name="Chess.Pieces.Rook"/>
+<fullyQualifiedTypeName name="BoardGame.Position"/>
+<fullyQualifiedTypeName name="Chess.Color"/>
+</qualifiedTypeNameHistroy>
