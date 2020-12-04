@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="BoardGame.Piece"/>
-<fullyQualifiedTypeName name="Chess.ChessMatch"/>
-<fullyQualifiedTypeName name="Chess.ChessPiece"/>
-<fullyQualifiedTypeName name="BoardGame.Board"/>
 <fullyQualifiedTypeName name="Chess.Pieces.Rook"/>
 <fullyQualifiedTypeName name="Chess.Color"/>
+<fullyQualifiedTypeName name="java.util.InputMismatchException"/>
 <fullyQualifiedTypeName name="BoardGame.Position"/>
+<fullyQualifiedTypeName name="Chess.ChessException"/>
+<fullyQualifiedTypeName name="BoardGame.Board"/>
+<fullyQualifiedTypeName name="BoardGame.Piece"/>
+<fullyQualifiedTypeName name="Chess.ChessPosition"/>
+<fullyQualifiedTypeName name="Chess.ChessPiece"/>
+<fullyQualifiedTypeName name="Chess.ChessMatch"/>
 </qualifiedTypeNameHistroy>
