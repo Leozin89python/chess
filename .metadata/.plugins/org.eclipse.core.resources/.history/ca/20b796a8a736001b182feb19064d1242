@@ -1,0 +1,30 @@
+package Chess.Pieces;
+
+import Chess.Color;
+import Chess.ChessPiece;
+import BoardGame.Board;
+import BoardGame.Position;
+
+public class Rook extends ChessPiece {
+
+	public Rook(Board board, Color color) {
+		super(board, color);
+	}
+	
+	@Override
+	public String toString() {
+		return "R";
+	}
+
+	@Override
+	public boolean[][] PossibleMoves() {
+		boolean [][] mat = new boolean[getBoard().getRows()][getBoard().getColumns()];
+		
+		Position p = new Position(0, 0);
+		
+		p.setValues(position.getRow() -1, position.getColumn());
+		while(getBoard().positionExists(p)) {}
+		
+		return mat;
+	}
+}
